@@ -42,6 +42,8 @@ Refer to your Personalized Project Reference when answering this question.
 
 Consider the first iteration statement included in the Procedure section of your Personalized Project Reference. **Describe what is being accomplished by the code in the body of the iteration statement.**
 
+in Gabe.js, the first iteration statement iterated throught the json data of the api used in the project.
+
 #### Part (b):
 
 Consider the procedure identified in part (i) of the Procedure section of your Personalized Project Reference.
